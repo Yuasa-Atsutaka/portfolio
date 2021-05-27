@@ -70,7 +70,7 @@ li {
   top: 0;
   z-index: 1;
   width: 100%;
-  background-color: #fff;
+  background-color:rgb(255, 183, 102);
   box-shadow: 0 5px 10px -6px rgba(0,0,0,.1);
 }
 
@@ -87,6 +87,7 @@ li {
   line-height: 1.2;
   margin-right: 20px;
   letter-spacing: .05em;
+  background-color:#fff;
 }
 
 .header-logo a {
@@ -203,8 +204,9 @@ li {
   padding: 10px;
   cursor: pointer;
   text-align: center;
-  background-color: #4c4c4c;
+  background-color: rgb(255, 183, 102);
 }
+
 
 .page-top .material-icons-outlined {
   vertical-align: bottom;
@@ -258,11 +260,13 @@ li {
 
   .header .inner {
     padding: 15px;
+    background-color:rgb(255, 183, 102);
   }
 
   .header-logo {
     font-size: 15px;
     margin-right: 15px;
+    background-color: white;
   }
 
   .header-nav-item:not(:last-child) {
