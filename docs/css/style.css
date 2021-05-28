@@ -168,12 +168,12 @@ strong {
 /*---hobby---*/
 .hobby_list {
 	font-size: 20px;
-
 }
-.hobby_item{
-	margin-left:30px;
-	position:center;
+
+.hobby_item {
+	margin-left: 30px; position : center;
 	list-style: disc;
+	position: center;
 }
 /*--- skill ---*/
 .skill-list {
